@@ -55,7 +55,7 @@ zenml stack register local_bentoml_stack \
 
 ## 🚀 Training Pipeline
 
-Our standard training pipeline consists of several steps:
+My standard training pipeline consists of several steps:
 
 - `ingest`: Ingests the data from the databas into the ZenML repository.
 - `categorical_encoder`: Encodes the categorical features of the dataset.

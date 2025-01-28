@@ -14,4 +14,4 @@ scipy==1.10.0
 SQLAlchemy==1.4.41
 statsmodels==0.14.0
 typing_extensions==4.7.1
-zenml==0.42.1
+zenml==0.67
